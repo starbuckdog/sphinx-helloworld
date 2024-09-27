@@ -10,7 +10,9 @@ Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
-好像中文支持的不是很好！··`为什么中文`
+中文
+
+··这是什么
 
 `restructuredtext<https://www.baidu.com>`
 
